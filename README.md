@@ -25,3 +25,16 @@ I used logistic regression, decision trees and K-Nearest Neighbors. K-Nearest Ne
 ### Discussion and Conclusions
 In conclusion, my best  model was done with K_Nearest_Neighbors run with selected key features resulting in an accuracy score of 87%. These features were DEVICE_CONDITION, WEATHER_CONDITION, LIGHTING_CONDITION, ROADWAY_SURFACE_COND, CRASH_DAY_OF_WEEK. 
 
+### RECOMMENDATIONS
+After Analysis of this dataset we have come up with the following recommendations:
+
+a) Educate the masses on road safety measures.
+
+b) Encourage drivers to take actions that prevent accidents.
+
+c) People should be discouraged from driving during bad weather conditions
+
+d) People should be discouraged from using faulty vehicles.
+
+e) Encourage the male gender and the young people to be careful in their driving.
+
